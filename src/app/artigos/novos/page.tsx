@@ -1,4 +1,4 @@
-import { getArticles, getNewArticle } from "@/Api/artigos"
+import { getNewArticle } from "@/Api/artigos"
 import List from "../../components/List"
 import Title from "@/app/components/Title"
 
