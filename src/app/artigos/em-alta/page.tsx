@@ -2,7 +2,7 @@ import { getPopularArticle } from "@/Api/artigos"
 import List from "../../components/List"
 import Title from "@/app/components/Title"
 
-export const revalidate = 120;
+export const dynamic = 'force-dynamic';
 
 const ArtigosNovos = async() => {
     const artigosNovos = await getPopularArticle()
