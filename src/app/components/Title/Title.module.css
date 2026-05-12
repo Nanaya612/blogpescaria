@@ -1,0 +1,9 @@
+.title {
+    margin: 3rem 0rem 3rem 15rem;
+}
+@media (max-width: 750px) {
+    .title {
+        margin: 3rem auto 3rem auto;
+        text-align: center;
+    }
+}

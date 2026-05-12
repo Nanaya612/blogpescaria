@@ -1,0 +1,19 @@
+.article {
+    border-top: 1px solid black;
+    width: 100%;
+}
+.article__link {
+    text-decoration: none;
+    color: black;
+}
+.article__footer {
+    display: flex;
+    justify-content: space-between;
+}
+.article__description{
+    color: #949494;
+}
+.article:hover{
+    transform: translateX(1.5rem);
+    transition: transform 0.3s ease;
+}

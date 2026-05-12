@@ -1,0 +1,44 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: green;
+    color: white;
+}
+.header__nav {
+    padding: 1rem;
+    margin: 0.5rem 0 0 0;
+    display: flex;
+}
+.header__link {
+    padding: 1.5rem 2rem 0.5rem 2rem;
+    text-decoration: none;
+    font-size: 1.15rem;
+    color: white;
+}
+.header__link:hover {
+    transform: translateY(0.8rem);
+    transition: transform 0.3s ease;
+}
+.header__title {
+    padding: 3rem;
+    margin: 0;
+    font-size: 2.4rem;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+
+}
+@media (max-width: 750px) {
+    .header{
+        display: flex;
+        justify-content: center;
+    
+    }
+    .header__link{
+        padding: 1.5rem 1rem 0.5rem 1rem;
+    }
+    .header__title{
+        padding: 2.5rem;
+        font-size: 2rem;
+    }
+}

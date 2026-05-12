@@ -1,0 +1,74 @@
+[
+    {    
+        "id" : 1,
+        "title" : "5 peixes mais famosos de agua doce no Brasil",
+        "author" : "Pedro Silva",
+        "content" : "Os 5 peixes de água doce mais famosos e consumidos no Brasil, conhecidos tanto pela pesca esportiva quanto pela culinária, são: Pirarucu: Conhecido como 'gigante da Amazônia', é um dos maiores peixes de água doce do mundo. Tambaqui: Muito apreciado por sua carne saborosa e gordurosa, famoso em pratos assados e costelinha. Pintado (Surubim): Popular por sua carne branca, firme e sem espinhas, cobiçado na pesca. Tilápia: O peixe de água doce mais cultivado e consumido no Brasil, com carne leve e versátil. Tucunaré: Ícone da pesca esportiva brasileira, conhecido por ser brigador e estar em várias bacias",
+        "release_date": [27,3,2026],
+        "popular": true
+    },
+    {
+        "id" : 2,
+        "title" : "Equipamentos para pescar no Inverno. Confira!",
+        "author" : "Rodrigo Machado",
+        "content" : "Pescar no inverno exige adaptação, pois o metabolismo dos peixes diminui, tornando-os mais inativos e exigentes. Equipamentos leves, sensíveis e iscas de trabalho lento são as chaves do sucesso. Confira os equipamentos essenciais para garantir boas capturas no frio: Varas e Molinetes (Conjunto Ultra Light)Varas: Prefira varas de ação lenta a média, com 5 a 7 pés, ideais para arremessar iscas leves e sentir toques suaves. Molinetes/Carretilhas: Modelos do tipo Ultra Light (UL) são recomendados para melhorar a sensibilidade. Use linhas finas de monofilamento 0,20{mm} - 0,30{mm} ou multifilamento para reduzir a resistência na água, pois os peixes tendem a dar toques mais discretos. Iscas Soft (Soft Baits): Shads, grubs e iscas de silicone são excelentes, pois podem ser trabalhadas lentamente no fundo. Jigs de pelo ou silicone funcionam bem para peixes de fundo. Spinners e Colheres: Iscas que produzem vibração com velocidade de recolhimento baixa. Frogs Antienrosco: Ótimos para traíras em locais com vegetação seca, comuns no inverno. Iscas Naturais e Acessórios: Minhocas, camarões e lambaris vivos são mais atrativos no frio. Anzóis: Use anzóis menores e mais finos (tipo Chinu 4 a 7), pois peixes lentos costumam 'chupar' a isca em vez de atacá-la vorazmente. Chumbadas: Utilize chumbadas leves para pesca de fundo (corvinas e tilápias), garantindo que a isca chegue ao fundo, onde a água é um pouco mais quente.",
+        "release_date": [15,2,2026],
+        "popular": false
+    },
+    {    
+        "id" : 3,
+        "title" : "Equipamentos para iniciantes na pesca",
+        "author" : "João Carlos",
+        "content" : "Para iniciantes na pesca, o equipamento ideal deve ser versátil e fácil de manusear, Aqui estão os equipamentos essenciais para começar. O Essencial - Vara de Pesca: Prefira varas telescópicas ou de duas partes (fáceis de transportar) de fibra de vidro ou carbono, com tamanho entre 1,60m e 2,10m e ação média. Molinete: Mais fácil de usar que carretilhas, ideal para evitar cabeleiras (emaranhados de linha). Modelos tamanho 2000 a 3000 são bastante versáteis. Linha de Pesca: Linha monofilamento de náilon é a melhor opção para começar por ser barata e resistente, com resistência entre 10 lb e 20 lb. Anzóis: Leve modelos de tamanhos variados (ex: 4330 da Marine Sports, números 6 a 12) para diferentes tamanhos de boca de peixe. Chumbadas e Boias: Chumbos bolinha (2g a 10g) para pesca de fundo e boias de isopor ou plástico para pesca de superfície.",
+        "release_date": [14,1,2026],
+        "popular": true
+    },
+    {    
+        "id" : 4,
+        "title" : "Importancia da Geladeira Portatil para Acampamentos",
+        "author" : "Miguel Rodrigues",
+        "content" : "A geladeira portátil para acampamento é um equipamento que transforma a experiência ao ar livre, oferecendo conveniência, segurança alimentar e conforto. Ela elimina a necessidade de comprar gelo constantemente, garantindo que alimentos e bebidas fiquem na temperatura ideal por toda a viagem. Aqui estão os principais pontos sobre a importância da geladeira portátil no camping: Preservação e Segurança Alimentar: Mantém carnes, laticínios e outros perecíveis seguros contra contaminação, reduzindo riscos de doenças. Economia e Praticidade: Evita o desperdício de alimentos que estragariam em caixas térmicas comuns devido ao degelo. Além disso, economiza dinheiro ao não precisar comprar gelo. Eficiência de Refrigeração: Ao contrário das caixas de isopor, modelos com compressor podem gelar bebidas e alimentos rapidamente e manter temperaturas constantes (podendo até congelar).",
+        "release_date": [4,10,2025],
+        "popular": false
+    },
+    {    
+        "id" : 5,
+        "title" : "5 receitas para fazer com seus pescados",
+        "author" : "Miguel Rodrigues",
+        "content" : "Aqui estão 5 receitas práticas e saborosas para aproveitar seus pescados, variando entre assados, grelhados e ensopados, perfeitas para o dia a dia ou ocasiões especiais - Filé de Peixe ao Molho de Limão: Uma opção refrescante e rápida. Grelhe filés de tilápia ou merluza e cubra com um molho de manteiga, limão-siciliano e alcaparras. Salmão ao Forno com Ervas: Prato clássico e saudável. Asse as postas de salmão com azeite, tomilho, alecrim e rodelas de limão por cerca de 20-25 minutos.Moqueca de Peixe Fácil: Use robalo, cação ou badejo em postas, cozinhando com leite de coco, azeite de dendê, tomate, cebola, pimentão e coentro para um prato rico em sabor. Ceviche Peruano: Peixe branco cru marinado em suco de limão, cebola roxa, coentro e pimenta, ideal para uma entrada refrescante e leve. Bolinho de Peixe Assado: Ótima opção para sobras. Misture o peixe desfiado com batata cozida, ovos, salsa e farinha, molde os bolinhos e asse até douraçar.",
+        "release_date": [28,3,2026],
+        "popular": false
+    },
+    {    
+        "id" : 6,
+        "title" : "Como criar minhocas em casa para pescar!",
+        "author" : "Pedro Silva",
+        "content" : "Criar minhocas em casa para pesca é simples, barato e exige poucos materiais: caixas de plástico ou isopor (minhocário), terra, matéria orgânica (restos de alimentos), substrato (serragem/papel picado) e as minhocas matrizes. Materiais Necessários: 3 caixas de plástico ou isopor, preferencialmente escuras e empilháveis, com furos para ventilação e drenagem. Compre minhocas vermelhas da Califórnia ou Gigantes Africanas. Terra vegetal, húmus, serragem grossa, jornal picado ou palha para criar um ambiente úmido e escuro. Alimento: Restos de vegetais, cascas de frutas (exceto cítricas), borra de café, cascas de ovo trituradas.",
+        "release_date": [15,7,2024],
+        "popular": true
+    },
+    {    
+        "id" : 7,
+        "title" : "Bons APPs de previsão do Tempo para espacar",
+        "author" : "João Carlos",
+        "content" : "Os melhores aplicativos de previsão do tempo para pesca em 2026 focam em dados meteorológicos detalhados (vento, marés, pressão) combinados com previsões solunares. Destaques incluem Fishing Points (iOS/Android): Oferece mapas de pesca, previsões meteorológicas, horários de marés e fases da lua. WeFish (iOS/Android): Funciona como um diário de pesca com informações meteorológicas em tempo real e previsão de atividade dos peixes. Fishbox (iOS/Android): Conhecido por dar uma pontuação (0-100) para o dia de pesca com base no clima. Fishing Forecast (Android): Ótimo para previsões horárias, pressão atmosférica e atividade dos peixes. Windy.app: Provavelmente a melhor ferramenta para verificar vento, rajadas e ondas, fundamental para o planejamento. Nautide: Completo para pesca costeira e marítima, com dados de marés, sol, lua e barômetro.",
+        "release_date": [10,7,2025],
+        "popular": true
+    },
+    {    
+        "id" : 8,
+        "title" : "Porque praticar pesca esportiva",
+        "author" : "Rodrigo Machado",
+        "content" : "A pesca esportiva é praticada como hobby e terapia para aliviar o estresse, promover saúde mental e física, e conectar-se com a natureza, focando no lazer e na preservação ambiental através do conceito 'pesque e solte' Principais motivos para praticar pesca esportiva - Saúde Mental e Relaxamento: Funciona como uma terapia contra o estresse da vida urbana, promovendo contato com áreas verdes e água, o que gera bem-estar. Conservação e Sustentabilidade: O foco é o 'pesque e solte', devolvendo o peixe com vida para preservar o ecossistema, garantir a perpetuação das espécies e permitir futuras pescarias .Benefícios Físicos: Melhora a coordenação motora, equilíbrio e força muscular, além de proporcionar caminhada. Democrática e Desafiadora: Pode ser praticada por qualquer pessoa, em diferentes locais como pesque-pagues ou natureza, envolvendo técnicas para capturar peixes específicos. Conexão com a Natureza: Proporciona momentos de contemplação, silêncio e interação com o meio ambiente.",
+        "release_date": [5,4,2026],
+        "popular": true
+    },
+    {    
+        "id" : 9,
+        "title" : "Importancia do oculos polaraizado na pesca",
+        "author" : "Pedro Silva",
+        "content" : "Óculos polarizados são itens indispensáveis na pesca, pois eliminam o reflexo da luz solar na água (ofuscamento), permitindo enxergar peixes e estruturas subaquáticas, além de proteger contra raios UV e acidentes com iscas artificiais. A lente especial melhora o contraste, reduz a fadiga ocular e aumenta a segurança e eficiência da pescaria.",
+        "release_date": [1,12,2025],
+        "popular": false
+    }
+]
