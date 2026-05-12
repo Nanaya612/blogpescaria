@@ -9,7 +9,7 @@ A aplicação permite visualizar em lista ordenada posts ficticios de um blog de
 //como rodar
 
 #pre-requisitos 
-Node.js versão 18.17 ou mais recentes
+Node.js versão v24.11.1 ou mais recentes
 Gerenciador de Pacotes como: npm ou yarn
 
 #instalação
