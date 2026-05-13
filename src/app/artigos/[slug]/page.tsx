@@ -1,16 +1,23 @@
-import { getArticleDetails } from "@/Api/artigos"
+import { getArticleDetails, getArticles } from "@/Api/artigos"
 import NotFound from "../../not-found"
 import styles from "./DetalhesArtigo.module.css"
 import Link from "next/link"
 
 type Props = {
     params: Promise<{
-        id: number
+        slug: string
     }>
 }
+export async function generateStaticParams() {
+    const posts = getArticles()
+    return posts.map((post) => ({
+        slug: post.slug
+    }))
+}
+
 export const generateMetadata = async ({params}:Props) => {
-    const {id} = await params
-    const Details = await getArticleDetails(id)
+    const {slug} = await params
+    const Details =  getArticleDetails(slug)
     if(!Details)
         return NotFound()
     return {
@@ -20,8 +27,8 @@ export const generateMetadata = async ({params}:Props) => {
 }
 
 const ContentArtigo = async({params}:Props) => {
-    const {id} = await params
-    const Details = await getArticleDetails(id)
+    const {slug} = await params
+    const Details =  getArticleDetails(slug)
     if(!Details)
         return NotFound()
     const {content, title, author, release_date} = Details

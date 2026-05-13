@@ -4,5 +4,6 @@ export interface Article {
     author: string,
     content: string,
     release_date: Array<number>,
-    popular: boolean
+    popular: boolean,
+    slug: string
 }

@@ -4,8 +4,8 @@ import Title from "@/app/components/Title"
 
 export const dynamic = "force-dynamic"
 
-const ArtigosNovos = async() => {
-    const artigosNovos = await getNewArticle()
+const ArtigosNovos = () => {
+    const artigosNovos = getNewArticle()
     
     return(
         <>

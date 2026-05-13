@@ -1,7 +1,7 @@
 import styles from "./Title.module.css"
 
 type Props = {
-    title:String
+    title:string
 }
 
 const Title = ({title}:Props) => {

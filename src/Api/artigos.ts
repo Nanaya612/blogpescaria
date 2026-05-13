@@ -5,9 +5,9 @@ export const getArticles = () => {
     const dados = res
     return dados
 }
-export const getArticleDetails = (id:number) =>{
+export const getArticleDetails = (slug:string) =>{
     const dados = res
-    const dadosFiltrados = dados.find((dado:Article) => dado.id == id)
+    const dadosFiltrados = dados.find((dado:Article) => dado.slug == slug)
     return dadosFiltrados
 }
 export const getPopularArticle = () =>{

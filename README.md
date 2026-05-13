@@ -13,10 +13,14 @@ Node.js versão v24.11.1 ou mais recentes
 Gerenciador de Pacotes como: npm ou yarn
 
 #instalação
-clone o repositorio com comando: git clone https://github.com/Nanaya612/blogpescaria
-acesse o diretorio com git cd blogpescaria
-instale as dependencias com npm install 
+clone o repositorio com comando: 'git clone https://github.com/Nanaya612/blogpescaria'
+acesse o diretorio com 'git cd blogpescaria'
+instale as dependencias com 'npm install'
 
 #iniciar
-rode o comando npm run start
+rode o comando: 'npm run dev' (para desenvolvimento)
+rode os comandos: 'npm run build' e 'npm run start' respectivamente (para produção) 
 Acesse http://localhost:3000 no navegador
+
+Você tambem pode acessar com o link do deploy no Vercel abaixo:
+https://blogpescaria.vercel.app
