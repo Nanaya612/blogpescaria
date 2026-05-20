@@ -52,7 +52,7 @@ jobs:
         run: npm install
 
       - name: Rodar o Lint
-        run: npm run list
+        run: npm run lint
 
       - name: Verificar Formatação
         run: npm run format -- -- check
